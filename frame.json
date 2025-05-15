@@ -2,7 +2,7 @@
   "version": "vNext",
   "name": "Swap on Monad via UniswapV2",
   "image": "https://grizzlie123.github.io/Swap-by-beanswap/preview.png",
-  "post_url": "https://swap-by-beanswap.vercel.app/api/frame",
+  "post_url": "https://uniswap-monad-three.vercel.app/api/frame",
   "buttons": [
     { "label": "Swap USDC > MONAD" },
     { "label": "Swap MONAD > USDC" },
